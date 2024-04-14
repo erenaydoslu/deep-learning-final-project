@@ -21,7 +21,7 @@ To get a local copy up and running follow these steps:
     Python can be downloaded [here](https://www.python.org/downloads/).
 
 3. **Opening interactive python notebooks (ipynb)**\
-    All the code is in this singular interactive python notebook file `sea-pix-GAN.ipynb`, to open such a file you need a special editor.
+    All the code is in this singular interactive python notebook file `StAdv_attack.ipynb`, to open such a file you need a special editor.
     The following options were used during development, [Jupyter](https://jupyter.org/), [Google Colab](https://colab.google/), and [VS Code](https://code.visualstudio.com/).
 
 
