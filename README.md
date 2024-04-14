@@ -7,7 +7,6 @@ Our blog can be found [here](https://medium.com/@henwei1998/8ab4838e448b).
 
 The goal of this project was to reproduce the [Table 1](table1.png), and [Figure 2](figure2.png) of the original paper.
 
-<<<<<<< HEAD
 ## Installation
 To get a local copy up and running follow these steps:
 
